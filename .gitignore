@@ -5,3 +5,8 @@
 *.egg-info/
 
 # Weird files
+.ipynb_checkpoints/
+
+
+.DS_Store
+
